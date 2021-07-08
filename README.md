@@ -1,8 +1,11 @@
 # Quasar Test
 Ouvrir le terminale dans le répertoire du projet puis tapez les commandes suivants:
+
 npm install 
+
 Puis:
 cd client
+
 Enfin:
 npm install
 # Pour lancer l'application node:
