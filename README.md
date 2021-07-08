@@ -12,5 +12,6 @@ npm install
 npm run server
 # Pour lancer l'application quasar:
 Il faut aller dans le répertoire client( tapez: cd client)
-quasar dev
+
+Puis: quasar dev
 
