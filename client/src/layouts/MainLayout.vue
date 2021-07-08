@@ -42,18 +42,19 @@
                     type="password"
                     label="password"
                   />
+                  <q-card-actions class="q-px-md">
+                    <q-btn
+                      unelevated
+                      type="submit"
+                      color="white"
+                      size="lg"
+                      class="full-width"
+                      label="Login"
+                      text-color="black"
+                    />
+                  </q-card-actions>
                 </q-form>
               </q-card-section>
-              <q-card-actions class="q-px-md">
-                <q-btn
-                  unelevated
-                  color="white"
-                  size="lg"
-                  class="full-width"
-                  label="Login"
-                  text-color="black"
-                />
-              </q-card-actions>
             </q-card>
           </div>
         </div>
